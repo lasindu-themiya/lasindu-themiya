@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [http://lasinduthemiya.atwebpages.com/](http://lasinduthemiya.atwebpages.com/)
 
-- 💬 Ask me about **php**
+- 💬 Ask me about **php**,**html**,**css**,**mysql**
 
 - 📫 How to reach me **lasinduthemiya96@gmail.com**
 
