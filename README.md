@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lasindu themiya</h1>
+<h1 align="center">Hi 👋, I'm Lasindu Themiya</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasindu-themiya&label=Profile%20views&color=0e75b6&style=flat" alt="lasindu-themiya" /> </p>
 
-- 🔭 I’m currently working on **Queuepro**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lasindu-themiya" alt="lasindu-themiya" /></a> </p>
 
-- 🌱 I’m currently learning **laravel**
+- 🔭 I’m currently working on [QueuePro](https://github.com/lasindu-themiya/QueuePro.git)
 
-- 👨‍💻 All of my projects are available at [http://lasinduthemiya.atwebpages.com/](http://lasinduthemiya.atwebpages.com/)
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **php**,**html**,**css**,**mysql**
+- 💬 Ask me about **php, html, css and mysql**
 
 - 📫 How to reach me **lasinduthemiya96@gmail.com**
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/lasindu-themiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lasindu-themiya" height="30" width="40" /></a>
 <a href="https://instagram.com/__itz__marvel__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__itz__marvel__" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@lasinduthemiya96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lasinduthemiya96" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lasindu-themiya&show_icons=true&locale=en&layout=compact" alt="lasindu-themiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lasindu-themiya&show_icons=true&locale=en" alt="lasindu-themiya" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lasindu-themiya&" alt="lasindu-themiya" /></p>
