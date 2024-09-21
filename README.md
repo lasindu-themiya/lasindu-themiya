@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lasindu-themiya&label=Profile%20views&color=0e75b6&style=flat" alt="lasindu-themiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lasindu-themiya" alt="lasindu-themiya" /></a> </p>
 
 - 🔭 I’m currently working on [QueuePro](https://github.com/lasindu-themiya/QueuePro.git)
 
