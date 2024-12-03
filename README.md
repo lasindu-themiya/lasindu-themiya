@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer Banner" width="30%" height="10%">
+  <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif" alt="Developer Banner" width="30%" height="10%">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Lasindu Themiya</h1>
