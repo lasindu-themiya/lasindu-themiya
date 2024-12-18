@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif" alt="Developer Banner" width="30%" height="10%">
+  <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif" alt="Developer Banner" width="50%" height="auto">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Lasindu Themiya</h1>
@@ -9,26 +9,26 @@
   <img src="https://komarev.com/ghpvc/?username=lasindu-themiya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<hr />
+---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🔭 I’m currently working on **QueuePro**
 - 🌱 I’m currently learning **Software Engineering at NIBM**
 - 💬 Ask me about **Java, PHP, C#, HTML, C, JavaScript, CSS**
 - 📫 Reach me at **lasinduthemiya96@gmail.com**
 
-<hr />
+---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/lasindu-themiya-39474b276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
 </p>
 
-<hr />
+---
 
-### 🛠️ Skills and Tools
+## 🛠️ Skills and Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
@@ -44,9 +44,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40" />
 </p>
 
-<hr />
+---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lasindu-themiya&show_icons=true&locale=en&theme=radical&cache_seconds=1800" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lasindu-themiya&show_icons=true&locale=en&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages">
@@ -56,11 +56,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lasindu-themiya&theme=radical" alt="GitHub Streak">
 </p>
 
-<hr />
+---
 
-### 🌟 Fun Fact
+## ⏳ Coding Activity
+<p align="center">
+  <img src="https://wakatime.com/share/@c4b4ad54-41fd-4b5a-b628-011130395bf1/14704d5d-09cc-4bb4-a835-b70733aed7b6.svg" alt="Wakatime Coding Activity" width="80%">
+  <img src="https://wakatime.com/share/@c4b4ad54-41fd-4b5a-b628-011130395bf1/dd6e417d-3366-4ac4-b432-c4a515d951dd.svg" alt="Wakatime Coding Activity" width="80%">
+</p>
+
+---
+
+## 🌟 Fun Fact
 **I once debugged a code bug faster than my coffee finished brewing—it was both a win for productivity and caffeine! ☕💻**
 
-<hr />
+---
 
 ✨ **Thanks for stopping by!** Feel free to explore my repositories and connect with me. Let's create something amazing together!
