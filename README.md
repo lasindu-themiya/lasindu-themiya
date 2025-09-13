@@ -125,6 +125,8 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
   <a href="https://wakatime.com/@ItzMarvel">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ItzMarvel&theme=radical&layout=compact" />
   </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ItzMarvel&theme=radical&layout=compact&langs_count=0&hide=languages" />
 </div>
 
 ---
