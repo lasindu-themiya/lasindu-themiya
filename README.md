@@ -141,7 +141,21 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ![GitHub Followers](https://img.shields.io/github/followers/lasindu-themiya?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
 ![Profile Views](https://komarev.com/ghpvc/?username=lasindu-themiya&label=Profile%20Views&color=blue&style=flat)
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lasindu-themiya/lasindu-themiya/main?color=blue&label=Commit%20Activity)
+![Waka Time](https://wakatime.com/badge/user/c4b4ad54-41fd-4b5a-b628-011130395bf1.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/lasindu-themiya?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
+
+---
+
+### 👨‍💻 Coding Activity
+<div align="center">
+  <a href="https://wakatime.com/@c4b4ad54-41fd-4b5a-b628-011130395bf1">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@c4b4ad54-41fd-4b5a-b628-011130395bf1/dd6e417d-3366-4ac4-b432-c4a515d951dd.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@c4b4ad54-41fd-4b5a-b628-011130395bf1/dd6e417d-3366-4ac4-b432-c4a515d951dd.svg" />
+      <img alt="Wakatime Language Stats" />
+    </picture>
+  </a>
+</div>
 
 ---
 
