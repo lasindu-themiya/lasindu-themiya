@@ -6,7 +6,6 @@
 <a href="https://github.com/lasindu-themiya"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Lasindu+Themiya;I'm+a+software+engineer" alt="Typing SVG" /></a>
 </div>
 
-$$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 <a href="https://github.com/lasindu-themiya">
   <img src="https://render.gitanimals.org/lines/lasindu-themiya?pet-id=655005503710681288" width="30%" height="100" />
@@ -32,8 +31,16 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
   <a href="https://github.com/lasindu-themiya/EdifyHub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=EdifyHub&theme=radical" />
   </a>
-  <a href="https://github.com/lasindu-themiya/workmate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=workmate&theme=radical" />
+  <a href="https://github.com/lasindu-themiya/NibmCareerSpringbootWebAppBackEnd">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=NibmCareerSpringbootWebAppBackEnd&theme=radical" />
+  </a>
+  <a href="https://github.com/lasindu-themiya/Deepfake-Detection-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=Deepfake-Detection-System
+&theme=radical" />
+  </a>
+  <a href="https://github.com/lasindu-themiya/mcpwebgenerator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=mcpwebgenerator
+&theme=radical" />
   </a>
 </p>
 
@@ -108,7 +115,7 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
 ### 🔹 Why Connect With Me?
 🚀 **I’m passionate about tech innovation, building scalable applications, and solving real-world problems.** Open to **collaborations, speaking opportunities, and mentorship.**
 
-📫 **Let's connect:** [Linkedin](https://linkedin.com/in/lasindu-themiya-39474b276) | [Portfolio](https://lasindu-themiya.dev)
+📫 **Let's connect:** [Linkedin](https://linkedin.com/in/lasindu-themiya-39474b276) | [Portfolio](https://lasinduthemiya.vercel.app)
 
 ---
 
@@ -125,8 +132,6 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
   <a href="https://wakatime.com/@ItzMarvel">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ItzMarvel&theme=radical&layout=compact" />
   </a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ItzMarvel&theme=radical&layout=compact&langs_count=0&hide=languages" />
 </div>
 
 ---
