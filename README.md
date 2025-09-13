@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </div>
 
-<div align="center">
+<p align="center">
 <a href="https://github.com/lasindu-themiya"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Lasindu+Themiya;I'm+a+software+engineer" alt="Typing SVG" /></a>
-</div>
+</p>
 
 
 <a href="https://github.com/lasindu-themiya">
