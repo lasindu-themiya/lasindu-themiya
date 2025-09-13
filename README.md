@@ -32,12 +32,10 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=EdifyHub&theme=radical" />
   </a>
   <a href="https://github.com/lasindu-themiya/Deepfake-Detection-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=Deepfake-Detection-System
-&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=Deepfake-Detection-System&theme=radical" />
   </a>
   <a href="https://github.com/lasindu-themiya/mcpwebgenerator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=mcpwebgenerator
-&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=mcpwebgenerator&theme=radical" />
   </a>
 </p>
 
