@@ -20,9 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: lasindu-themiya
+        # No inputs required for this action as per latest documentation
           
       - name: Commit & Push
         run: |
