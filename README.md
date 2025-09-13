@@ -13,7 +13,7 @@
   <img src="https://render.gitanimals.org/lines/lasindu-themiya?pet-id=676696471626403543" width="30%" height="100" />
 </a>
 
-I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN, MERN, Java, and Spring Boot**, I build robust applications from scratch and lead projects from concept to deployment.
+I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **ML, DL, MERN, Java, and Spring Boot**, I build robust applications from scratch and lead projects from concept to deployment.
 
 ### 🚀 About Me
 - 🔥 **Co-Founder & Lead Developer** at **WorkMate** – Innovating academic support services
@@ -30,9 +30,6 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
   </a>
   <a href="https://github.com/lasindu-themiya/EdifyHub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=EdifyHub&theme=radical" />
-  </a>
-  <a href="https://github.com/lasindu-themiya/NibmCareerSpringbootWebAppBackEnd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=NibmCareerSpringbootWebAppBackEnd&theme=radical" />
   </a>
   <a href="https://github.com/lasindu-themiya/Deepfake-Detection-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=Deepfake-Detection-System
