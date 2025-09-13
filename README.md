@@ -10,7 +10,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
   <img src="https://render.gitanimals.org/lines/lasindu-themiya?pet-id=676696471626403543" width="30%" height="100" />
 </a>
 
-‎‎ ‎ ‎ ‎ I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN, MERN, Java, and Spring Boot**, I build robust applications from scratch and lead projects from concept to deployment.
+I am a **full-stack software engineer** and **entrepreneur** who specializes in developing **scalable web, mobile, and enterprise solutions**. With a strong foundation in **MEAN, MERN, Java, and Spring Boot**, I build robust applications from scratch and lead projects from concept to deployment.
 
 ### 🚀 About Me
 - 🔥 **Co-Founder & Lead Developer** at **WorkMate** – Innovating academic support services
@@ -20,15 +20,11 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 - 🏆 **HackerRank & GitHub Streaks** – **SQL Intermediate Certification** & **Software Engineer Intern Certificate**
 
 ---
-> ### ⚠️ Repository Order Notice
-> I recently reorganized my repositories, which brought some older, beginner-friendly projects to the top.
-These early-stage projects may lack features or contain minor bugs — but they’re a great starting point for learners or those who love to contribute!
-> 
-> 🔧 Contributions are warmly welcome – whether it’s fixing bugs, improving documentation, adding features, or doing code reviews.
-> 
-> You’ll also find more complex and production-grade projects throughout the repo list, suitable for intermediate and expert developers.
-> 
-> 🚀 Dive in, explore, and feel free to leave feedback, open issues, or raise pull requests. Let’s build together!
+### 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=lasindu-portfolio&theme=radical)](https://github.com/lasindu-themiya/lasindu-portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=EdifyHub&theme=radical)](https://github.com/lasindu-themiya/EdifyHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=workmate&theme=radical)](https://github.com/lasindu-themiya/workmate)
+
 ---
 
 ### 💡 Tech Stack
@@ -68,42 +64,16 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ---
 
 ### ⚡ GitHub Stats
-<div width ="100%" display="flex" align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lasindu-themiya&theme=radical&rank_icon=percentile&show_icons=true&show=prs_merged,reviews,prs_merged_percentile&hide=issues" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lasindu-themiya&rank_icon=percentile&show_icons=true&show=reviews,prs_merged,prs_merged_percentile&hide=issues" />
-  <img width="50%" alt="github-stats" src="github-stats.svg" />
-  </picture>
-
-  <img width="35%" align="right" alt ="gif" src ="https://github.com/kavicastelo/web_assets/blob/main/hacker-png.gif">
-</div>
-
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=lasindu-themiya&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=lasindu-themiya&date_format=M%20j%5B%2C%20Y%5D" />
-  <img alt="streak" src="streak.svg" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasindu-themiya&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasindu-themiya" />
-  <img alt="profile-details" src="profile-details.svg" />
-  </picture>
-</p>
-
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lasindu-themiya&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lasindu-themiya" />
-  <img alt="repos-per-language" src="repos-per-language.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lasindu-themiya&theme=radical&rank_icon=percentile&show_icons=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lasindu-themiya&rank_icon=percentile&show_icons=true" />
+    <img width="48%" alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=lasindu-themiya&rank_icon=percentile&show_icons=true" />
   </picture>
-
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lasindu-themiya&theme=radical&utcOffset=8" />
-  <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lasindu-themiya&utcOffset=8" />
-  <img alt="productive-time" src="productive-time.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lasindu-themiya&layout=compact&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lasindu-themiya&layout=compact" />
+    <img width="48%" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasindu-themiya&layout=compact" />
   </picture>
 </div>
 
@@ -116,24 +86,10 @@ These early-stage projects may lack features or contain minor bugs — but they�
 
 ---
 
-### 🌟 Highlighted Areas of Expertise
-✔ **Full-Stack Development** – Built & scaled web and mobile applications.
-
-✔ **Enterprise Applications** – Hospital management systems, queue management systems.
-
-✔ **IoT & Hardware** – Experience with Arduino and integrating hardware with software.
-
-✔ **Mobile Development** – Flutter, Kotlin.
-
-✔ **Game Development** – 2D games using JavaScript Canvas.
-
----
-
 ### 🔹 Why Connect With Me?
 🚀 **I’m passionate about tech innovation, building scalable applications, and solving real-world problems.** Open to **collaborations, speaking opportunities, and mentorship.**
 
-📫 **Let's connect:** [Linkedin](https://linkedin.com/in/lasindu-themiya-39474b276)
-| [Portfolio](https://lasindu-themiya.dev)
+📫 **Let's connect:** [Linkedin](https://linkedin.com/in/lasindu-themiya-39474b276) | [Portfolio](https://lasindu-themiya.dev)
 
 ---
 
@@ -149,95 +105,43 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ### 👨‍💻 Coding Activity
 <div align="center">
   <a href="https://wakatime.com/@c4b4ad54-41fd-4b5a-b628-011130395bf1">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@c4b4ad54-41fd-4b5a-b628-011130395bf1/dd6e417d-3366-4ac4-b432-c4a515d951dd.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@c4b4ad54-41fd-4b5a-b628-011130395bf1/dd6e417d-3366-4ac4-b432-c4a515d951dd.svg" />
-      <img alt="Wakatime Language Stats" />
-    </picture>
+    <img src="https://wakatime.com/share/@c4b4ad54-41fd-4b5a-b628-011130395bf1/dd6e417d-3366-4ac4-b432-c4a515d951dd.svg" />
   </a>
 </div>
 
 ---
 
-<details>
-  <summary>🦑 Github Metrics 🌌</summary>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/metrics.plugin.achievements.compact.svg" alt="metrics">
-        <img src="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/metrics.plugin.followup.indepth.svg" alt="metrics">
-      </td>
-      <td>
-        <img src="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/metrics.classic.svg" alt="classic metrics">
-        <img src="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/metrics.plugin.languages.indepth.svg" alt="language-analysis">
-      </td>
-    </tr>
-  </table>
-</details>
-
----
-
-### 👨‍💻 Find me on communities
-
-<div width="100%" display="flex" align="center">
-  <a href="https://github.com/lasindu-themiya">
-<code><img src="https://img.icons8.com/color/48/github.png"/></code>
-</a>
-</div>
-
----
-
-### 🌌 3D Contribution metrics(latest)
-
+### 🌌 3D Contribution Metrics
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
   <img alt="3d-contrib" src="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
 </picture>
+</div>
 
 ---
 
 ### 🏆 Github Trophies
-
 <p align="center">
   <a href="https://github.com/lasindu-themiya">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=lasindu-themiya&theme=radical&no-frame=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=lasindu-themiya&no-frame=true" />
-    <img width=800 alt="troophy" src="troophy.svg"  style="display:block; margin:auto;"/>
+    <img width=800 alt="trophy" src="https://github-trophies.vercel.app/?username=lasindu-themiya&no-frame=true"  style="display:block; margin:auto;"/>
     </picture>
   </a>
 </p>
 
-### 📈 Monthly Contribution Stats
-
-<a href="https://github.com/lasindu-themiya">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lasindu-themiya&theme=react-dark&radius=8&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lasindu-themiya&radius=8&area=true" />
-  <img alt="activity-graph" src="activity-graph.svg" />
-</picture>
-</a>
-
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lasindu-themiya/lasindu-themiya/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/lasindu-themiya/lasindu-themiya/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/images/breakout-light.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/dist/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
