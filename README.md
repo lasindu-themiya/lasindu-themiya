@@ -180,9 +180,6 @@ These early-stage projects may lack features or contain minor bugs — but they�
 ### 👨‍💻 Find me on communities
 
 <div width="100%" display="flex" align="center">
-  <a href="https://stackoverflow.com/users/20531015/kavi-castelo">
-<code><img src="https://img.icons8.com/color-glass/48/stackoverflow.png"/></code>
-</a>
   <a href="https://github.com/lasindu-themiya">
 <code><img src="https://img.icons8.com/color/48/github.png"/></code>
 </a>
