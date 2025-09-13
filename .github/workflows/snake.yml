@@ -26,5 +26,9 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add dist/
-          if git diff --cached --quiet; then echo "No changes to commit"; else git commit -m "Generate snake animation" && git push; fi
+          if [ -d dist ]; then
+            git add dist/
+            if git diff --cached --quiet; then echo "No changes to commit"; else git commit -m "Generate snake animation" && git push; fi
+          else
+            echo "No dist directory to commit"
+          fi
