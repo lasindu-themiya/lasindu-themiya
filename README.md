@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+</div>
+
+<div align="center">
 <a href="https://github.com/lasindu-themiya"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Lasindu+Themiya;I'm+a+software+engineer" alt="Typing SVG" /></a>
 </div>
 
@@ -20,10 +24,18 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
 - 🏆 **HackerRank & GitHub Streaks** – **SQL Intermediate Certification** & **Software Engineer Intern Certificate**
 
 ---
-### 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=lasindu-portfolio&theme=radical)](https://github.com/lasindu-themiya/lasindu-portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=EdifyHub&theme=radical)](https://github.com/lasindu-themiya/EdifyHub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=workmate&theme=radical)](https://github.com/lasindu-themiya/workmate)
+### 📌 Featured Repositories
+<p align="center">
+  <a href="https://github.com/lasindu-themiya/lasindu-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=lasindu-portfolio&theme=radical" />
+  </a>
+  <a href="https://github.com/lasindu-themiya/EdifyHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=EdifyHub&theme=radical" />
+  </a>
+  <a href="https://github.com/lasindu-themiya/workmate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=workmate&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -79,7 +91,14 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
 
 ---
 
-### 🔥 What I'm Working On
+### � Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lasindu-themiya&theme=radical" />
+</div>
+
+---
+
+### �🔥 What I'm Working On
 - 🚀 Scaling **WorkMate** for more students
 - 🤖 Developing **AI-powered academic tools**
 - ☁️ Enhancing **cloud-native deployment pipelines**
@@ -97,7 +116,6 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
 ![GitHub Followers](https://img.shields.io/github/followers/lasindu-themiya?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
 ![Profile Views](https://komarev.com/ghpvc/?username=lasindu-themiya&label=Profile%20Views&color=blue&style=flat)
 ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/lasindu-themiya/lasindu-themiya/main?color=blue&label=Commit%20Activity)
-![Waka Time](https://wakatime.com/badge/user/c4b4ad54-41fd-4b5a-b628-011130395bf1.svg)
 ![GitHub Stars](https://img.shields.io/github/stars/lasindu-themiya?style=flat&logo=github&logoColor=ffffff&labelColor=575757&color=1183c3)
 
 ---
@@ -105,8 +123,15 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
 ### 👨‍💻 Coding Activity
 <div align="center">
   <a href="https://wakatime.com/@c4b4ad54-41fd-4b5a-b628-011130395bf1">
-    <img src="https://wakatime.com/share/@c4b4ad54-41fd-4b5a-b628-011130395bf1/dd6e417d-3366-4ac4-b432-c4a515d951dd.svg" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lasindu-themiya&theme=radical&layout=compact" />
   </a>
+</div>
+
+---
+
+### 😂 Fun Fact
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
 
 ---
@@ -119,19 +144,6 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
   <img alt="3d-contrib" src="https://github.com/lasindu-themiya/lasindu-themiya/blob/main/profile-3d-contrib/profile-south-season-animate.svg" />
 </picture>
 </div>
-
----
-
-### 🏆 Github Trophies
-<p align="center">
-  <a href="https://github.com/lasindu-themiya">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=lasindu-themiya&theme=radical&no-frame=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=lasindu-themiya&no-frame=true" />
-    <img width=800 alt="trophy" src="https://github-trophies.vercel.app/?username=lasindu-themiya&no-frame=true"  style="display:block; margin:auto;"/>
-    </picture>
-  </a>
-</p>
 
 ---
 
