@@ -89,6 +89,12 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lasindu-themiya&layout=compact" />
     <img width="48%" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lasindu-themiya&layout=compact" />
   </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lasindu-themiya&theme=radical&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=lasindu-themiya&hide_border=true" />
+    <img alt="github-streak" src="https://streak-stats.demolab.com?user=lasindu-themiya&hide_border=true" />
+  </picture>
 </div>
 
 ---
