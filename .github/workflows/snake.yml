@@ -7,6 +7,9 @@ on:
   push:
     branches:
       - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
@@ -25,5 +28,4 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add dist/
-          git commit -m "Generate snake animation"
-          git push
+          if git diff --cached --quiet; then echo "No changes to commit"; else git commit -m "Generate snake animation" && git push; fi
