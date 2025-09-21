@@ -102,10 +102,22 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
 
 ---
 
-### � Contribution Graph
+## 📊 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lasindu-themiya&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lasindu-themiya&theme=radical" alt="Contribution Graph" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=lasindu-themiya&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
 
 ---
 
