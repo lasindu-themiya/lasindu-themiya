@@ -37,8 +37,8 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
   <a href="https://github.com/lasindu-themiya/mcpwebgenerator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=mcpwebgenerator&theme=radical" />
   </a>
-  <a href="https://github.com/lasindu-themiya/resume_to_job_predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=resume_to_job_predictor&theme=radical" />
+  <a href="https://github.com/lasindu-themiya/ensenaragent">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lasindu-themiya&repo=ensenaragent&theme=radical" />
   </a>
 </p>
 
