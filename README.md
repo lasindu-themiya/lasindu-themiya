@@ -131,7 +131,7 @@ I am a **full-stack software engineer** and **entrepreneur** who specializes in 
 ### 🔹 Why Connect With Me?
 🚀 **I’m passionate about tech innovation, building scalable applications, and solving real-world problems.** Open to **collaborations, speaking opportunities, and mentorship.**
 
-📫 **Let's connect:** [Linkedin](https://linkedin.com/in/lasindu-themiya-39474b276) | [Portfolio](https://lasinduthemiya.vercel.app)
+📫 **Let's connect:** [Linkedin](https://linkedin.com/in/lasindu-themiya-39474b276) | [Portfolio](https://www.lasinduthemiya.tech/)
 
 ---
 
